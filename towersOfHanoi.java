@@ -16,6 +16,5 @@ class towersOfHanoi
         int n=sc.nextInt();
         hanoi(n,'A','B','C');
         sc.close();
-    
 	}
 }
